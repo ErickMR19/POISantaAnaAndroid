@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="accent_dark">#ff2929</color>
+    <color name="accent">#ff5252</color>
+    <color name="secondary_text">#727272</color>
+    <color name="pink">#FF7FAF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_pressed">#DDDDDD</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="fab_menu_icon">#FFFFFF</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Santa Ana</string>
+    <string name="title_activity_main">Santa Ana</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuración</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Segunda Opción</string>
+    <string name="title_activity_mapa_canton">Mapa</string>
+    <string name="title_activity_mapa_santa_ana">Santa Ana - Punto de Interes</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content" android:layout_height="wrap_content">
+
+    <ListView
+        android:id="@+id/control_regiones"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        style="@android:style/ButtonBar">
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_weight="1" android:text="Aceptar" android:id="@+id/boton_aceptar"/>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_weight="1" android:text="Cancelar" android:id="@+id/boton_cancelar"/>
+    </LinearLayout>
+
+
+</LinearLayout>

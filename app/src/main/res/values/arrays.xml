@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sectores_array">
+        <item>Todo el Cantón</item>
+        <item>Santa Ana Centro</item>
+        <item>Salitral</item>
+        <item>Pozos</item>
+        <item>La Uruca</item>
+        <item>Piedades</item>
+        <item>Brasil</item>
+    </string-array>
+
+    <string-array name="categorias_array">
+        <item>Todo</item>
+        <item>Cultura</item>
+        <item>Deportes</item>
+        <item>Educación</item>
+        <item>Salud</item>
+        <item>Bancos</item>
+        <item>Restaurantes</item>
+        <item>Servicios Publicos</item>
+        <item>Automotriz</item>
+    </string-array>
+
+</resources>
